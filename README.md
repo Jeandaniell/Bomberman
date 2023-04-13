@@ -5,5 +5,5 @@ Langage: C++
 Compilation: Cmake
 Bomberman crossplatform based game using raylib engine
 
-Compilation process: ./build
+Compilation process: ./build &&
                      ./bomberman
