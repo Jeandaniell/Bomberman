@@ -21,14 +21,3 @@ cmake
 ./build.sh
 ./bomberman
 ```
-
-## Groupes Members
-
-```
-Jean-Daniel HOUSSOU
-Famous SOUNTON
-Jaurio DANSOU
-Maël QUENUM
-Marie-Amour KASSA
-Sedjro GBESSEMEHLAN
-```
